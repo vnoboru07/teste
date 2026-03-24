@@ -1,2 +1,0 @@
-# LeandroTrab
-Faculdadede praticando git
